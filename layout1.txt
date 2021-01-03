@@ -1,0 +1,63 @@
+[F1]>[fntog]
+[F2]>[F1]
+[F3]>[F2]
+[F4]>[F3]
+[F5]>[F4]
+[F6]>[F5]
+[F7]>[F6]
+[F8]>[F7]
+[F9]>[F8]
+[F10]>[F9]
+[F11]>[F10]
+[F12]>[F11]
+[prnt]>[F12]
+[scrlk]>[del]
+[pause]>[home]
+[del]>[end]
+{hk1}>{s5}{x1}{-lctrl}{x}{+lctrl}
+{hk2}>{s5}{x1}{-lctrl}{v}{+lctrl}
+[home]>[pup]
+{hk3}>{s5}{x1}{-lctrl}{c}{+lctrl}
+[hk4]>[del]
+[end]>[pdn]
+{hk5}>{s5}{x1}{-lctrl}{a}{+lctrl}
+{hk6}>{s1}{-lctrl}{z}{+lctrl}
+[pup]>[scrlk]
+{hk7}>{x1}{-lalt}{tab}{+lalt}
+{hk8}>{s5}{x1}{-lctrl}{y}{+lctrl}
+[pdn]>[fnshf]
+[hk9]>[prnt]
+[hk10]>[pause]
+{ralt}{lspc}>{x1}{menu}
+{lalt}{rspc}>{x1}{menu}
+fn [mute]>[fntog]
+fn [vol-]>[mute]
+fn [vol+]>[vol-]
+fn [play]>[vol+]
+fn [prev]>[play]
+fn [next]>[prev]
+fn [F7]>[next]
+fn [F8]>[F7]
+fn [F9]>[F8]
+fn [F10]>[F9]
+fn [F11]>[F10]
+fn [F12]>[F11]
+fn [prnt]>[F12]
+fn [numlk]>[del]
+fn [ins]>[home]
+fn [del]>[end]
+fn {hk1}>{-lctrl}{x}{+lctrl}
+fn {hk2}>{-lctrl}{v}{+lctrl}
+fn [home]>[pup]
+fn {hk3}>{-lctrl}{c}{+lctrl}
+fn [hk4]>[del]
+fn [end]>[pdn]
+fn {hk5}>{-lctrl}{a}{+lctrl}
+fn {hk6}>{-lctrl}{z}{+lctrl}
+fn [caps]>[fnshf]
+fn [pup]>[numlk]
+fn {hk7}>{-lalt}{tab}{+lalt}
+fn {hk8}>{-lctrl}{y}{+lctrl}
+fn [pdn]>[fnshf]
+fn [hk9]>[fntog]
+fn [hk10]>[fnshf]
