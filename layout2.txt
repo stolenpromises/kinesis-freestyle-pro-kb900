@@ -28,6 +28,7 @@
 [pdn]>[fnshf]
 [hk9]>[prnt]
 [hk10]>[pause]
+[lspc]>[lalt]
 {ralt}{lspc}>{x1}{menu}
 {lalt}{rspc}>{x1}{menu}
 fn [mute]>[fntog]
