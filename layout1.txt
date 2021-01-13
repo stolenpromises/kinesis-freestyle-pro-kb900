@@ -60,4 +60,4 @@ fn {hk7}>{-lalt}{tab}{+lalt}
 fn {hk8}>{-lctrl}{y}{+lctrl}
 fn [pdn]>[fnshf]
 fn [hk9]>[fntog]
-fn [hk10]>[fnshf]
+fn [hk10]>[ins]
