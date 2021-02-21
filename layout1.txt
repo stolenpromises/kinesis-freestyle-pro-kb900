@@ -61,3 +61,5 @@ fn {hk8}>{-lctrl}{y}{+lctrl}
 fn [pdn]>[fnshf]
 fn [hk9]>[fntog]
 fn [hk10]>[ins]
+fn [ralt]>[del]
+fn [rctrl]>[bspc]
