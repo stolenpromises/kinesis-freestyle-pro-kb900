@@ -29,8 +29,8 @@
 [hk9]>[prnt]
 [hk10]>[pause]
 [lspc]>[lalt]
-{ralt}{lspc}>{x1}{menu}
-{lalt}{rspc}>{x1}{menu}
+{ralt}{lspc}>{x1}{-lalt}{F10}{+lalt}
+{lalt}{rspc}>{x1}{-lalt}{F10}{+lalt}
 fn [mute]>[fntog]
 fn [vol-]>[mute]
 fn [vol+]>[vol-]
@@ -62,3 +62,5 @@ fn {hk8}>{-lctrl}{y}{+lctrl}
 fn [pdn]>[fnshf]
 fn [hk9]>[prnt]
 fn [hk10]>[ins]
+fn {ralt}{lspc}>{-lalt}{F10}{+lalt}
+fn {lalt}{rspc}>{-lalt}{F10}{+lalt}

@@ -28,8 +28,8 @@
 [pdn]>[fnshf]
 [hk9]>[prnt]
 [hk10]>[pause]
-{ralt}{lspc}>{x1}{menu}
-{lalt}{rspc}>{x1}{menu}
+{ralt}{lspc}>{x1}{-lshft}{F10}{+lshft}
+{lalt}{rspc}>{x1}{-lshft}{F10}{+lshft}
 fn [mute]>[fntog]
 fn [vol-]>[mute]
 fn [vol+]>[vol-]
@@ -59,7 +59,8 @@ fn [pup]>[numlk]
 fn {hk7}>{-lalt}{tab}{+lalt}
 fn {hk8}>{-lctrl}{y}{+lctrl}
 fn [pdn]>[fnshf]
-fn [hk9]>[fntog]
 fn [hk10]>[ins]
+fn {ralt}{lspc}>{-lshft}{F10}{+lshft}
+fn {lalt}{rspc}>{-lshft}{F10}{+lshft}
 fn [ralt]>[del]
 fn [rctrl]>[bspc]
