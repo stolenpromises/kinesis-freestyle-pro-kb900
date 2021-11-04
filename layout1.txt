@@ -22,6 +22,8 @@
 [end]>[pdn]
 {hk5}>{s5}{x1}{-lctrl}{a}{+lctrl}
 {hk6}>{s1}{-lctrl}{z}{+lctrl}
+[caps]>[fnshf]
+{rshft}{caps}>{x1}{lwin}
 [pup]>[scrlk]
 {hk7}>{x1}{-lalt}{tab}{+lalt}
 {hk8}>{s5}{x1}{-lctrl}{y}{+lctrl}
@@ -29,6 +31,7 @@
 [hk9]>[prnt]
 [hk10]>[pause]
 {ralt}{lspc}>{x1}{-lshft}{F10}{+lshft}
+[rspc]>[spc]
 {lalt}{rspc}>{x1}{-lshft}{F10}{+lshft}
 fn [mute]>[fntog]
 fn [vol-]>[mute]
@@ -51,10 +54,23 @@ fn {hk2}>{-lctrl}{v}{+lctrl}
 fn [home]>[pup]
 fn {hk3}>{-lctrl}{c}{+lctrl}
 fn [hk4]>[del]
+fn [tab]>[caps]
+fn [e]>[up]
+fn [r]>[menu]
+fn [kp4]>[menu]
+fn [kp5]>[up]
 fn [end]>[pdn]
 fn {hk5}>{-lctrl}{a}{+lctrl}
 fn {hk6}>{-lctrl}{z}{+lctrl}
 fn [caps]>[fnshf]
+fn [s]>[lft]
+fn [d]>[dwn]
+fn [f]>[rght]
+fn [g]>[lwin]
+fn [h]>[rwin]
+fn [kp1]>[lft]
+fn [kp2]>[dwn]
+fn [kp3]>[rght]
 fn [pup]>[numlk]
 fn {hk7}>{-lalt}{tab}{+lalt}
 fn {hk8}>{-lctrl}{y}{+lctrl}
